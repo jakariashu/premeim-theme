@@ -1,0 +1,158 @@
+.site-logo a {
+    color: #000;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.site-logo h2 {
+    margin: 0;
+    padding: 9px 0;
+}
+
+.rrf-contact-box {
+    display:  inline-block;
+    color: #666;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.header-right-content h3 {
+    font-size: 20px;
+    margin:  0;
+    margin-top: 5px;
+}
+
+.header-right-content a {
+    text-decoration: none;
+}
+
+.header-right-content {
+    position:  relative;
+    padding-right: 54px;
+}
+
+.rrf-cart, .rrf-contact-box i {
+    position:  absolute;
+    top:  0px;
+    right: 0;
+    border: 1px solid #dae5eb;
+    width: 54px;
+    height: 54px;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 50%;
+    line-height: 2.8;
+}
+
+i.fa.fa-shopping-cart {}
+
+.rrf-cart span {
+    position:  absolute;
+    top: -13px;
+    right: -9px;
+    border: 1px solid #dae5eb;
+    width:  30px;
+    height: 30px;
+    border-radius: 50%;
+    background: #1e8bc3;
+    color: #fff;
+    line-height: 1.5;
+}
+
+.rrf-contact-box {
+    position:  relative;
+    padding-left: 65px;
+    margin-right: 15px;
+}
+
+.rrf-contact-box i {
+    left:  0;
+    top: 50%;
+    color: blue;
+    margin-top: -27px;
+}
+
+.header-area {
+    padding-top: 25px;
+}
+
+.mainmenu {
+    margin-top: 25px;
+    border-top: 1px solid #dae5eb;
+}
+
+.mainmenu ul {
+    margin:  0;
+    list-style:  none;
+    padding:  0;
+}
+
+.mainmenu li {
+    display:  inline-block;
+    position:  relative;
+}
+
+.mainmenu li a {
+    color: #333;
+    display:  block;
+    font-weight: 700;
+    padding:  20px;
+    padding-left: 0px;
+    padding-right: 30px;
+    text-decoration: none;
+}
+
+.site-footer {
+    background: #2a2d2f;
+    color: #8e9397;
+}
+
+.site-footer a {
+    color: #afb9c0;
+    line-height: 2;
+}
+
+.site-footer ul {
+    margin:  0;
+    padding:  0;
+    list-style: none;
+    line-height: 1.8;
+}
+
+.site-footer .widget-title {
+    font-size: 18px;
+    color: #fff;
+    text-transform:  capitalize;
+    margin-bottom: 31px;
+}
+
+.rrf-footer-button {
+    border-top: 1px solid #9b9fa2;
+    font-size: 15px;
+    padding: 25px 0;
+}
+
+.social-icon {
+    text-align: right;
+}
+
+.social-icon a {
+    display:  inline-block;
+    font-size: 15px;
+    padding: 0px 5px;
+    color: #fff;
+}
+
+.rrf-footer-button ul {
+    text-align: center;
+    line-height: 1.7;
+}
+
+.rrf-footer-button li {
+    display: inline-block;
+}
+
+.site-footer .widget {
+    padding: 90px 0;
+    margin: 0;
+}
